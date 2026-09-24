@@ -1,0 +1,7 @@
+{
+  "numbers": [3, 4, 6, 12],
+  "ratio": 0.25,
+  "roundtrip_ok": true,
+  "truncated_hex": "030204",
+  "v1_hex": "0000000300000004"
+}
